@@ -32,7 +32,7 @@ The transformed CSV files are loaded into a PostgreSQL database.
 A database schema is created using SQL to define table structures, relationships, and constraints.
 The database schema includes primary and foreign keys for referential integrity.
 
-## Database Schema
+ **Database Schema**: 
 The relational database schema includes the following tables:
 
 -categories: Stores unique category IDs and names.
