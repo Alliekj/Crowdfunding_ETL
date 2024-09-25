@@ -40,7 +40,8 @@ The relational database schema includes the following tables:
 3. campaigns: Contains detailed campaign information, including foreign keys to categories and subcategories.
 4. contacts: Stores contact information split into first and last names, with unique contact IDs.
 5. The Entity-Relationship Diagram (ERD) defines the relationships between these tables to ensure data normalization and efficient querying.
-![Project Image](Crowdfunding_ETF ERD.png)
+![Project Image](Crowdfunding_ETL_ERD.png)
+
 
 
 ## Installation & Setup
