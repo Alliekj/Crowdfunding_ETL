@@ -35,11 +35,11 @@ The database schema includes primary and foreign keys for referential integrity.
  **Database Schema**: 
 The relational database schema includes the following tables:
 
--categories: Stores unique category IDs and names.
--subcategories: Stores unique subcategory IDs and names.
--campaigns: Contains detailed campaign information, including foreign keys to categories and subcategories.
--contacts: Stores contact information split into first and last names, with unique contact IDs.
--The Entity-Relationship Diagram (ERD) defines the relationships between these tables to ensure data normalization and efficient querying.
+1. categories: Stores unique category IDs and names.
+2. subcategories: Stores unique subcategory IDs and names.
+3. campaigns: Contains detailed campaign information, including foreign keys to categories and subcategories.
+4. contacts: Stores contact information split into first and last names, with unique contact IDs.
+5. The Entity-Relationship Diagram (ERD) defines the relationships between these tables to ensure data normalization and efficient querying.
 
 
 ## Installation & Setup
