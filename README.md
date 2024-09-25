@@ -21,10 +21,10 @@ The data includes crowdfunding campaign details and contact information for camp
 **Data Transformation**:
 
 Extracted data is transformed into the following DataFrames:
--Category DataFrame: Contains unique category_id and category names.
--Subcategory DataFrame: Contains unique subcategory_id and subcategory names.
--Campaign DataFrame: Contains detailed campaign information such as goals, outcomes, and funding status.
--Contacts DataFrame: Splits contact details into first_name, last_name, and email columns.
+1. Category DataFrame: Contains unique category_id and category names.
+2. Subcategory DataFrame: Contains unique subcategory_id and subcategory names.
+3. Campaign DataFrame: Contains detailed campaign information such as goals, outcomes, and funding status.
+4. Contacts DataFrame: Splits contact details into first_name, last_name, and email columns.
 All DataFrames are exported to CSV files for loading into the database.
 
 **Data Loading**:
