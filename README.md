@@ -2,7 +2,7 @@
 
 
 ## Project Overview
-Crowdfunding_ETL is an Extract, Transform, Load (ETL) pipeline developed to process and manage crowdfunding campaign data. The project uses Python, Pandas, and SQL to extract data from raw Excel files, transform it into structured formats, and load it into a PostgreSQL database for analysis and reporting. This project involves data engineering tasks and demonstrates proficiency in data extraction, transformation, and loading, as well as database schema design.
+This is an ETL pipeline developed to process and manage crowdfunding campaign data. The project uses Python, Pandas, and SQL to extract data from raw Excel files, transform it into structured formats, and load it into a PostgreSQL database for analysis and reporting.
 
  **Technologies used**: 
  1. Python (Pandas, Regular Expressions)
